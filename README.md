@@ -14,7 +14,7 @@
 - 🎓 Student with a growing passion for full-stack development.
 - 🧑‍💻 Currently exploring backend with **Laravel** and **Node.js**, while sharpening frontend skills.
 - 🌱 Focusing on **Kotlin** for mobile and **Firebase** for real-time apps.
-- 📍 Based in [Your Location, e.g., Indonesia].
+- 📍 Based in [Yogyakarta, Indonesia].
 - 🔗 Portfolio: [bellswebportofolio.netlify.app](https://bellswebportofolio.netlify.app/)
 - 📧 Connect: [LinkedIn](https://linkedin.com/in/your-username) | [Email](mailto:ridhosakti7@gmail.com)
 - ⚡ Fun Fact: I love turning coffee into code! ☕💻

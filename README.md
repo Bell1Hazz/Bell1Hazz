@@ -59,7 +59,7 @@ A beginner-friendly mobile app demonstrating core Android features like UI inter
 **Tech Stack**: Kotlin  
 ![Stars](https://img.shields.io/github/stars/Bell1Hazz/Guntas-app?style=social)
 
-*(Add more projects as you build them!)*
+
 
 ## 🎯 My Goals
 - 🚀 Master **Node.js** for scalable backend systems.

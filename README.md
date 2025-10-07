@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm A (Bell1Hazz) 👋
+# Hello, I'm Bell👋
 
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" height="100" alt="Coding GIF" />  
 *Welcome to my GitHub profile! I'm a passionate student diving into web and mobile development, blending frontend flair with backend power. Let's code something awesome! 🚀*
@@ -16,7 +16,7 @@
 - 🌱 Focusing on **Kotlin** for mobile and **Firebase** for real-time apps.
 - 📍 Based in [Your Location, e.g., Indonesia].
 - 🔗 Portfolio: [bellswebportofolio.netlify.app](https://bellswebportofolio.netlify.app/)
-- 📧 Connect: [LinkedIn](https://linkedin.com/in/your-username) | [Email](mailto:your-email@example.com)
+- 📧 Connect: [LinkedIn](https://linkedin.com/in/your-username) | [Email](mailto:ridhosakti7@gmail.com)
 - ⚡ Fun Fact: I love turning coffee into code! ☕💻
 
 ## 🔧 Technologies & Tools
@@ -43,29 +43,23 @@
 ![Tech Icons](https://skillicons.dev/icons?i=php,laravel,kotlin,nodejs,tailwind,firebase,mysql,git) <!-- Icons auto-generate from skillicons.dev -->
 
 ## 📂 Selected Projects
-### [Portfolio Website](https://bellswebportofolio.netlify.app/)
+### [Portfolio Website](https://github.com/Bell1Hazz/portfolio-web)
 A sleek personal portfolio showcasing my skills and projects. Built with modern web tech for a responsive experience.  
 **Tech Stack**: HTML, CSS, Tailwind CSS, Firebase Hosting  
-![Stars](https://img.shields.io/github/stars/Bell1Hazz/your-portfolio-repo?style=social)  
+![Stars](https://img.shields.io/github/stars/Bell1Hazz/portfolio-web?style=social)  
 <img src="https://media.giphy.com/media/26ufnwz3wDUll7GU0/giphy.gif" width="200" alt="Portfolio GIF" /> <!-- Small GIF for visual appeal -->
 
-### [Project 2: Laravel Web App](https://github.com/Bell1Hazz/your-laravel-project) <!-- Ganti link repo asli -->
-A dynamic web application for user management with CRUD operations. Handles data efficiently with a clean backend.  
+### [Absensi Magang](https://github.com/Bell1Hazz/Absensi_magang)
+A dynamic web application for internship attendance tracking with CRUD operations. Manages user check-ins efficiently with a robust backend.  
 **Tech Stack**: Laravel, MySQL  
-![Stars](https://img.shields.io/github/stars/Bell1Hazz/your-laravel-project?style=social)
+![Stars](https://img.shields.io/github/stars/Bell1Hazz/Absensi_magang?style=social)
 
-### [Project 3: Kotlin Mobile App](https://github.com/Bell1Hazz/your-kotlin-project) <!-- Ganti link repo asli -->
-A beginner-friendly mobile app demonstrating core Android features like UI and basic interactions.  
+### [Guntas App](https://github.com/Bell1Hazz/Guntas-app)
+A beginner-friendly mobile app demonstrating core Android features like UI interactions and basic functionality.  
 **Tech Stack**: Kotlin  
-![Stars](https://img.shields.io/github/stars/Bell1Hazz/your-kotlin-project?style=social)
+![Stars](https://img.shields.io/github/stars/Bell1Hazz/Guntas-app?style=social)
 
 *(Add more projects as you build them!)*
-
-## 📈 GitHub Stats
-<div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bell1Hazz&theme=radical&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=Bell1Hazz&color=radical&label=Profile%20views)
-</div>
 
 ## 🎯 My Goals
 - 🚀 Master **Node.js** for scalable backend systems.
@@ -78,7 +72,7 @@ A beginner-friendly mobile app demonstrating core Android features like UI and b
 <p>
   <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ridhosakti7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> <!-- Tambah jika punya -->
+  <a href="https://www.instagram.com/_hazzz.bellllllll?igsh=ZzMwczJ3dzg3dTRq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 </div>
 

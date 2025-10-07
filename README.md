@@ -47,7 +47,7 @@
 A sleek personal portfolio showcasing my skills and projects. Built with modern web tech for a responsive experience.  
 **Tech Stack**: HTML, CSS, Tailwind CSS, Firebase Hosting  
 ![Stars](https://img.shields.io/github/stars/Bell1Hazz/portfolio-web?style=social)  
-<img src="https://media.giphy.com/media/26ufnwz3wDUll7GU0/giphy.gif" width="200" alt="Portfolio GIF" /> <!-- Small GIF for visual appeal -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBqdjF1ZWU5YjBmZDh5OWpwNjd4b2VvcGY4cnI4dnQyYjAyeTR0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gdyYrlp0L2Gc3AHNSh/giphy.gif" width="200" alt="Portfolio GIF" /> <!-- Small GIF for visual appeal -->
 
 ### [Absensi Magang](https://github.com/Bell1Hazz/Absensi_magang)
 A dynamic web application for internship attendance tracking with CRUD operations. Manages user check-ins efficiently with a robust backend.  

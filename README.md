@@ -82,6 +82,6 @@ A beginner-friendly mobile app demonstrating core Android features like UI inter
 
 Thanks for stopping by! Feel free to star my repos or reach out. Happy coding! ✨
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50" alt="Footer GIF" /> <!-- Small closing GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2dxbjR2NHNjb3Vvb2F1b2U1cWx1OHFqZmh3MWxteWNxNnZic2VlcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduSHDahHHSoBS9y/giphy.gif" width="125" alt="Footer GIF" /> <!-- Small closing GIF -->
 
 </div>

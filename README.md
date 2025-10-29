@@ -16,7 +16,7 @@
 - 🌱 Focusing on **Kotlin** for mobile and **Firebase** for real-time apps.
 - 📍 Based in [Yogyakarta, Indonesia].
 - 🔗 Portfolio: [bellswebportofolio.netlify.app](https://bellswebportofolio.netlify.app/)
-- 📧 Connect: [LinkedIn](https://linkedin.com/in/your-username) | [Email](mailto:ridhosakti7@gmail.com)
+- 📧 Connect: [LinkedIn](https://linkedin.com/in/your-username) | [Email](mailto:jasminepey5@gmail.com)
 - ⚡ Fun Fact: I love turning coffee into code! ☕💻
 
 ## 🔧 Technologies & Tools

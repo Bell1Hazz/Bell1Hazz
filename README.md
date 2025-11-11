@@ -2,7 +2,7 @@
 
 # Hello, I'm Bell👋
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" height="125" alt="Coding GIF" />  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlrOWt4ZDZicTRhYm9wdjg2YmxnYTgyOTJ4MzFzZjdjeDg5NTE2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" height="125" alt="Coding GIF" />  
 *Welcome to my GitHub profile! I'm a passionate student diving into web and mobile development, blending frontend flair with backend power. Let's code something awesome! 🚀*
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bell1Hazz&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true)
